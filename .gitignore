@@ -1,0 +1,14 @@
+# Large probability arrays — archived on Zenodo, not GitHub
+*.npz
+results/probabilities/
+
+# Raw dataset — download from source, never commit
+*.parquet
+*.csv.gz
+ciciot2023*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

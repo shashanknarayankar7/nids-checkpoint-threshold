@@ -1,0 +1,17 @@
+Class,vs,diff,t,p,significant
+Benign,SMOTE,-0.0849,-1.022,0.3647,False
+Benign,Focal loss,-0.0682,-0.831,0.4527,False
+BruteForce,SMOTE,-0.0207,-1.871,0.1346,False
+BruteForce,Focal loss,0.0733,2.227,0.0899,False
+DDoS,SMOTE,-0.0753,-3.374,0.0279,True
+DDoS,Focal loss,0.0043,0.267,0.8026,False
+DoS,SMOTE,-0.2501,-1.707,0.163,False
+DoS,Focal loss,-0.1354,-0.937,0.4016,False
+Mirai,SMOTE,-0.0025,-0.962,0.3903,False
+Mirai,Focal loss,-0.0025,-0.937,0.4016,False
+Recon,SMOTE,-0.0888,-0.774,0.4819,False
+Recon,Focal loss,-0.0932,-0.765,0.4867,False
+Spoofing,SMOTE,-0.0895,-0.858,0.4393,False
+Spoofing,Focal loss,-0.07,-0.672,0.5381,False
+Web,SMOTE,-0.0413,-1.209,0.2933,False
+Web,Focal loss,-0.0032,-0.088,0.9343,False
